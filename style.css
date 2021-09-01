@@ -1,0 +1,777 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.jcb{
+    
+    height: 800px;
+    width:1350px;
+    filter: brightness(55%);
+}
+
+.we{
+    color: #F2CE3E;
+    margin-top:-620px;
+    margin-left:570px;
+    font-size: 25px;
+    font-weight: normal;
+    position: absolute;
+    width: 400px;
+    font-family: Arial;
+}
+
+.big{
+    margin-top:-550px ;
+    margin-left:410px;
+    color: white;
+    position: absolute;
+    font-size: 120px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.yellow{
+    margin-top:-400;
+    margin-left:380px;
+    position:absolute;
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+}
+
+.button{
+    position: absolute;
+    color:black;
+    background-color:#FFCE3E;
+    width: 140px;
+    border: none;
+    height: 50px;
+    font-size: 15px;
+    margin-top: -300px;
+    margin-left:350px;
+    cursor: grab;
+}
+    
+.GET{
+    position: absolute;
+    color:black;
+    background-color:#FFFFFF;
+    width: 150px;
+    border: none;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -180px;
+    margin-left:700px;
+    cursor: grab;
+}
+
+.box{
+    width:100%;
+    height: 220px;
+    background-color: #FFCE3E;
+}
+
+.have{
+    margin-top: -180px;
+    margin-left: 140px;
+    font-size: 20px;
+}
+
+.don{
+    font-size: 20px;
+    margin-left: 140px;
+    font-weight: normal;
+}
+.button1{
+    position: absolute;
+    color:white;
+    background-color:black;
+    width: 190px;
+    border: none;
+    height: 45px;
+    font-size: 15px;
+    margin-top: -100px;
+    margin-left:850px;
+    cursor: grab;
+    font-weight: bold;
+}
+
+.contact{
+    position: absolute;
+    color:black;
+    width: 150px;
+    border: none;
+    height: 45px;
+    font-size: 15px;
+    margin-top: -100px;
+    margin-left:1100px;
+    cursor: grab;
+    
+}
+
+.part{
+    width: 360px;
+    display: flex;
+    text-align: center;
+
+}
+
+.system{
+    
+    margin: 40px;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+.power{
+    
+    padding-top: 111px;
+    margin-top: 10px;
+
+}
+
+.construction{
+    padding: 40px;
+    padding-top: 120px;
+    }
+   
+.link1{
+     color: orange;
+     text-decoration: none;
+     padding: 80px;
+    }
+.link2{
+    color: orange;
+    text-decoration: none;
+    padding: 80px;
+}
+
+.link3{
+    color: orange;
+    text-decoration: none;
+    padding: 80px;
+}
+
+.Engineering{
+    width: 360px;
+    display: flex;
+    text-align: center;
+   }
+
+.material{
+    margin: 40px;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+.link11{
+    color: orange;
+     text-decoration: none;
+     padding: 80px;
+}
+
+.Processing{
+    padding-top: 111px;
+    margin-top: 10px;
+}
+
+.link22{
+    color: orange;
+     text-decoration: none;
+     padding: 80px;
+}
+
+.gas{
+    padding: 40px;
+    padding-top: 120px;
+}
+
+.link33{
+    color: orange;
+     text-decoration: none;
+     padding: 80px;
+}
+
+.man{
+    background-color: #F2F2F2;
+    
+}
+
+
+
+.our{
+
+    width:1350px;
+    height: 700px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+.story{
+    text-align:center;
+    padding-top:80px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.st{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hat{
+    text-align: center;
+    padding-top: 10px;
+}
+.About{
+    width: 520px;
+    padding-top: -10px;
+    padding-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.ntpc{
+    width: 300px;
+    height: 600px;
+    padding-left: 50px;
+}
+
+
+.Reliability{
+    padding-left: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Reliability1{
+    font-weight: normal;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.Expertise{
+    padding-left: 40px;
+    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Expertise1{
+    padding-left: 40px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quality{
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.quality1{
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.c2{
+    background-image: url(image/c2.png);
+    background-size: cover;
+    height: 600px;
+    
+
+}
+
+.great{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    
+    
+}
+
+.awe{
+    font-size: 20px;
+    font-weight: bold ;
+
+}
+
+.project{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.jpg{
+    display: flex;
+    padding: 50px;
+    margin-left: 50px;
+}
+
+.padd{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.show{
+    background-color:#F7F7F7 ;
+    height: 300px;
+    width: 135 0px;
+}
+
+.timetop{
+    padding-top: 90px;
+    padding-left: 140px;
+}
+
+    
+.time1{
+    padding-left: 50px;
+}
+
+   
+.time2{
+    padding-left: 50px;
+}   
+.time3{
+    padding-left: 50px;
+}   
+.time4{
+    padding-left: 50px;
+}   
+.time5{
+    padding-left: 50px;
+}
+
+
+.team{
+    font-size: 30px;
+    text-align:center;
+    margin-top:110px;
+    
+}
+
+.team h1{
+    font-weight: normal;
+    font-size: 60px;
+}
+.brain{
+    display: flex;
+    background-color: gold;
+}
+
+.brain1{
+    padding-left: 100px;
+    width: 325px;
+    height: 420px;
+    
+}
+
+.brain2{
+
+    width: 325px;
+    height: 420px;
+    padding-left: 150px;
+}
+
+.brain3{
+    
+    width: 325px;
+    height: 420px;
+
+}
+
+.mike1{
+    text-align: center;
+    
+}
+
+@media(min-device-width:320px) and (max-device-width:480px){
+    .jcb{
+        width: 100%;
+        height: 80%;
+    }
+    .we{
+        color: yellow;
+        font-size: 45px;
+        margin-left: 300px;
+        margin-top: -1000px;
+    }
+    .big{
+        margin-top: -910px;
+        margin-left: 150px;
+        font-size:130px;
+        height: 180px;
+    }
+    .yellow{
+        margin-top: -700px;
+        margin-left: 180px;
+        margin-right: 180px;
+        font-size: 35px;
+    }
+    .button{
+        color:black;
+        background-color:#FFCE3E;
+        width: 230px;
+        border: none;
+        height: 80px;
+        font-size: 35px;
+        margin-top: -400px;
+        margin-left:200px;
+        cursor: grab;
+    
+    }
+    .GET{
+        color:black;
+        background-color:#FFFFFF;
+        width: 250px;
+        border: none;
+        height: 80px;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: -180px;
+        margin-left:300px;
+        cursor: grab;
+    }
+    .box{
+        width:100%;
+        height: 70%;
+        background-color: #FFCE3E;
+    }
+    .have > p{
+        margin-top: -800px;
+        position: absolute;
+        font-size: 55px;
+     }
+     .don{
+         margin-top: -650px;
+         position: absolute;
+         font-weight: normal;
+         font-size: 30px;
+     }
+     .button1{
+          position: absolute;
+          color:white;
+          background-color:black;
+          width: 350px;
+          border: none;
+          height: 80px;
+          font-size: 35px;
+          margin-top: -280px;
+          margin-left:140px;
+          cursor: grab;
+          font-weight: bold;
+     }
+     .contact{
+        position: absolute;
+        color:black;
+        background-color: #FFCE3E;
+        width: 350px;
+        border: 2px solid #454545;
+        height: 95px;
+        font-size: 40px;
+        margin-top: -100px;
+        margin-left:150px;
+        cursor: grab;
+     }
+     .part{
+         display: block;
+     }
+     .system > img{
+        margin-top: 300px;
+        width:830px;
+        height: 550px;
+    }
+    .system > h3{
+        font-size: 60px;
+        width: 800px;
+        margin-left: -55px;
+        margin-top: 50px;
+    }
+    .system > p{
+        width: 850px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .system > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -180px;
+    }
+
+
+    .power > img{
+        margin-top: 50px;
+        margin-left: 120px;
+        width:830px;
+        height: 550px;
+    }
+    .power > h3{
+        font-size: 80px;
+        width: 900px;
+        margin-left: -55px;
+        margin-top: 50px;
+    }
+    .power > p{
+        width: 850px;
+        margin-left: 100px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .power > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -130px;
+    }
+    
+    .construction > img{
+        margin-top: 50px;
+        margin-left: 80px;
+        width:830px;
+        height: 550px;
+    }
+    .construction > h3{
+        font-size: 65px;
+        width: 850px;
+        margin-left: 25px;
+        margin-top: 50px;
+    }
+    .construction > p{
+        width: 800px;
+        margin-left: 100px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .construction > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -130px;
+    }
+ 
+    .Engineering{
+        display: block;
+    }
+
+    
+    .material > img{
+        margin-top: 50px;
+        margin-left: -5px;
+        width:830px;
+        height: 550px;
+    }
+    .material > h3{
+        font-size: 70px;
+        width: 850px;
+        margin-left: -115px;
+        margin-top: 50px;
+    }
+    .material > p{
+        width: 850px;
+        margin-left: -10px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .material > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -180px;
+    }
+    
+    
+    .Processing > img{
+        margin-top: 50px;
+        margin-left: 120px;
+        width:830px;
+        height: 550px;
+    }
+    .Processing > h3{
+        font-size: 65px;
+        width: 800px;
+        margin-left: 25px;
+        margin-top: 50px;
+    }
+    .Processing > p{
+        width: 850px;
+        margin-left: 90px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .Processing > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -140px;
+    }
+    .gas > img{
+        margin-top: 50px;
+        margin-left: 85px;
+        width:830px;
+        height: 550px;
+    }
+    .gas > h3{
+        font-size: 80px;
+        width: 800px;
+        margin-left: -15px;
+        margin-top: 50px;
+    }
+    .gas > p{
+        width: 850px;
+        margin-left: 60px;
+        font-size: 30px;
+        font-weight: normal;
+
+    }
+    .gas > a{
+        color: orange;
+        text-decoration: none;
+        margin-top: -60px;
+        font-size: 50px;
+        position: absolute;
+        margin-left: -140px;
+    }
+    .man{
+        background-color: #F2F2F2;
+        width: 100%;
+        height: 6000px;
+        margin-top: 400px;
+    }
+    .our{
+        display: block;
+    }
+    .story{
+        font-size: 50px;
+        font-weight: normal;
+        font-family: normal;
+        
+    }
+    .st{
+        font-size: 150px;
+        font-family: normal;
+        font-weight: normal;
+    }
+    .hat{
+        font-size: 50px;
+        width: 820px;
+        text-align: center;
+        margin-left: 40px;
+    }
+    .About{
+        font-size: 80px;
+        font-family: normal;
+        font-weight: normal;
+
+    
+        font-size: 50px;
+        width: 800px;
+        font-family: normal;
+        font-weight: normal;
+    }
+    .ntpc{
+        margin-left: 50px;
+        width: 800px;
+        height: 1100px;
+    }
+    .Reliability{
+        font-size: 65px;
+        margin-top: 80px;
+        margin-left: 70px;
+        font-weight: normal;
+    }
+    .Reliability1{
+         font-size: 50px;
+         font-weight: normal;
+         font-family: normal;
+         margin-left: 70px;
+    }
+    .Expertise{
+        font-size: 65px;
+        margin-top: 80px;
+        margin-left: 70px;
+        font-weight: normal;
+    }
+    .Expertise1{
+         font-size: 50px;
+         font-weight: normal;
+         font-family: normal;
+         margin-left: 70px;
+    }
+    .quality{
+        font-size: 65px;
+        margin-top: 80px;
+        margin-left: 70px;
+        font-weight: normal;
+    }
+    .quality1{
+         font-size: 50px;
+         font-weight: normal;
+         font-family: normal;
+         margin-left: 70px;
+    }
+   .c2{
+        background-image: url(image/c2.png);
+        background-size: cover;
+        height: 3210px;
+   }
+   .awe{
+       font-size: 50px;
+       margin-top: 130px;
+       font-weight: bold;
+   }
+   .project{
+       font-size: 150px;
+       width: 900px;
+       margin-left: 40PX;
+       font-family: normal;
+       font-weight: normal;
+   }
+   .jpg{
+       display: block;
+       margin-top: 100px;
+   }
+   .jpg1{
+       width: 800px;
+       height: 600px;
+       margin-top:50px;
+   }
+   .show{
+    background-color:#F7F7F7 ;
+    height: 3000px;
+    width: 100%;
+}
+.timetop{
+    display: block;
+}
+.timetime{
+    display: block;
+    width: 400px;
+    height: 400px;
+    margin-left: 140px;
+    margin-top: 80px;
+}
+}
